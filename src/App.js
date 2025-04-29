@@ -1,23 +1,32 @@
 import logo from './logo.svg';
 import './App.css';
+// import Counter from './Counter/Counter';
+// import Todo from './Todo/Todo';
+// import StopWatch from './StopWatch/StopWatch';
+// import FormValidation from './Validation/FormValidation';
+// import Weather from './Weather/Weather';
+// import Reusable from './ReusableComponent/Reusable';
+// import Quiz from './qUIZ/Quiz';
+// import PracQuiz from './qUIZ/PracQuiz';
+// import Contxapi from './Theme/Contxapi';
+import ToggleSwitch from './Theme/ToggleSwitch';
+import ContextToggle from './Theme/ContextToggle';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      {/* <Counter/> */}
+      {/* <Todo/>
+      <StopWatch/> */}
+      {/* <FormValidation /> */}
+      {/* <Weather/> */}
+      {/* <Reusable/> */}
+      {/* <Quiz/> */}
+      {/* <PracQuiz/> */}
+      {/* <Quiz/> */}
+      {/* <Contxapi/> */}
+      {/* <ToggleSwitch/> */}
+      <ContextToggle/>
     </div>
   );
 }

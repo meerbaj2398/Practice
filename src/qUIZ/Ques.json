@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "question": "What is the capital of France?",
+      "options": ["Paris", "Rome", "Berlin", "Madrid"],
+      "answer": "Paris"
+    },
+    {
+      "id": 2,
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Earth", "Saturn", "Mars", "Jupiter"],
+      "answer": "Mars"
+    },
+    {
+      "id": 3,
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "options": ["William Wordsworth", "William Shakespeare", "Jane Austen", "Charles Dickens"],
+      "answer": "William Shakespeare"
+    },
+    {
+      "id": 4,
+      "question": "What is the largest mammal in the world?",
+      "options": ["African Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+      "answer": "Blue Whale"
+    },
+    {
+      "id": 5,
+      "question": "Which language is primarily used for web development?",
+      "options": ["C++", "Python", "JavaScript", "Java"],
+      "answer": "JavaScript"
+    }
+  ]
+  

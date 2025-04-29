@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+}
+
+.popup{
+/* background-color: blueviolet; */
+/* /* padding: 50px;  */
+width: 400px;
+border: 1px solid peru ;
+max-height:300px ;
+border-radius: 5px;
+overflow-y: auto;
+position: relative;
+margin: auto;
+}
+
+.popup p{
+    text-align: justify;
+    line-height: 1.6;
+    margin-bottom: 10px;
+    color: #333;
+    margin: 10px;
+    font-size: 13px;
+}
+
+button {
+    margin-top: 10px;
+}

@@ -1,0 +1,93 @@
+[
+    {
+      "date": "2025-04-23",
+      "location": "India",
+      "temperature": { "min": 10, "max": 18, "unit": "C" },
+      "condition": "Partly Cloudy",
+      "humidity": 60,
+      "windSpeed": 12,
+      "windUnit": "km/h"
+    },
+    {
+      "date": "2025-04-24",
+      "location": "Antarctica",
+      "temperature": { "min": 12, "max": 20, "unit": "C" },
+      "condition": "Sunny",
+      "humidity": 55,
+      "windSpeed": 10,
+      "windUnit": "km/h"
+    },
+    {
+      "date": "2025-04-25",
+      "location": "New York",
+      "temperature": { "min": 8, "max": 16, "unit": "C" },
+      "condition": "Rain",
+      "humidity": 80,
+      "windSpeed": 15,
+      "windUnit": "km/h"
+    },
+    {
+      "date": "2025-04-26",
+      "location": "New Jersey",
+      "temperature": { "min": 9, "max": 17, "unit": "C" },
+      "condition": "Overcast",
+      "humidity": 70,
+      "windSpeed": 14,
+      "windUnit": "km/h"
+    },
+    {
+      "date": "2025-04-27",
+      "location": "New York",
+      "temperature": { "min": 11, "max": 19, "unit": "C" },
+      "condition": "Clear",
+      "humidity": 50,
+      "windSpeed": 9,
+      "windUnit": "km/h"
+    },
+    {
+      "date": "2025-04-28",
+      "location": "New York",
+      "temperature": { "min": 13, "max": 21, "unit": "C" },
+      "condition": "Sunny",
+      "humidity": 52,
+      "windSpeed": 11,
+      "windUnit": "km/h"
+    },
+    {
+      "date": "2025-04-29",
+      "location": "New York",
+      "temperature": { "min": 14, "max": 22, "unit": "C" },
+      "condition": "Windy",
+      "humidity": 58,
+      "windSpeed": 20,
+      "windUnit": "km/h"
+    },
+    {
+      "date": "2025-04-30",
+      "location": "New York",
+      "temperature": { "min": 12, "max": 19, "unit": "C" },
+      "condition": "Rain Showers",
+      "humidity": 76,
+      "windSpeed": 17,
+      "windUnit": "km/h"
+    },
+    {
+      "date": "2025-05-01",
+      "location": "New York",
+      "temperature": { "min": 10, "max": 18, "unit": "C" },
+      "condition": "Thunderstorms",
+      "humidity": 85,
+      "windSpeed": 22,
+      "windUnit": "km/h"
+    },
+    {
+      "date": "2025-05-02",
+      "location": "Jonsberg",
+      "temperature": { "min": 11, "max": 20, "unit": "C" },
+      "condition": "Cloudy",
+      "humidity": 65,
+      "windSpeed": 13,
+      "windUnit": "km/h"
+    }
+  ]
+  
