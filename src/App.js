@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import Pagination from './Pagination/Pagination';
 // import Counter from './Counter/Counter';
 // import Todo from './Todo/Todo';
 // import StopWatch from './StopWatch/StopWatch';
@@ -9,8 +10,8 @@ import './App.css';
 // import Quiz from './qUIZ/Quiz';
 // import PracQuiz from './qUIZ/PracQuiz';
 // import Contxapi from './Theme/Contxapi';
-import ToggleSwitch from './Theme/ToggleSwitch';
-import ContextToggle from './Theme/ContextToggle';
+// import ToggleSwitch from './Theme/ToggleSwitch';
+// import ContextToggle from './Theme/ContextToggle/ContextToggle';
 
 function App() {
   return (
@@ -26,7 +27,8 @@ function App() {
       {/* <Quiz/> */}
       {/* <Contxapi/> */}
       {/* <ToggleSwitch/> */}
-      <ContextToggle/>
+      {/* <ContextToggle/> */}
+      <Pagination/>
     </div>
   );
 }
